@@ -6,7 +6,7 @@ The script is designed to run on most Linux servers and containers and displays 
 
 ---
 
-## 📊 Features
+## Features
 
 - Total CPU usage
 - Total memory usage
@@ -16,7 +16,7 @@ The script is designed to run on most Linux servers and containers and displays 
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 ### Recommended Environment
 - Linux (Ubuntu, Debian, or other GNU/Linux distributions)
