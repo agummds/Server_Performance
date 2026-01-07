@@ -25,8 +25,13 @@ The script is designed to run on most Linux servers and containers and displays 
 - Bash or POSIX-compatible shell
 
 ### Required Packages
-For full functionality, the following packages should be installed:
+- procps
+- util-linux
+
+---
+
+## How to Run
 
 ```bash
-procps
-util-linux
+chmod +x server-stats.sh
+./server-stats.sh
