@@ -28,3 +28,6 @@ For full functionality, the following packages should be installed:
 ```bash
 procps
 util-linux
+
+
+https://roadmap.sh/projects/server-stats
