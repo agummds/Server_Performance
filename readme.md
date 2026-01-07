@@ -11,8 +11,8 @@ The script is designed to run on most Linux servers and containers and displays 
 ## 📊 Features
 
 - Total CPU usage
-- Total memory usage (used vs free with percentage)
-- Total disk usage (used vs free with percentage)
+- Total memory usage
+- Total disk usage
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
 
