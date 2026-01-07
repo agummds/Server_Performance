@@ -1,8 +1,6 @@
-# Server Performance Statistics Script
+# [Server Performance Statistics Script](https://roadmap.sh/projects/server-stats)
 
 This project provides a simple Bash script (`server-stats.sh`) to analyze basic server performance statistics on a Linux system.
-
-The URL Project in https://roadmap.sh/projects/server-stats
 
 The script is designed to run on most Linux servers and containers and displays CPU usage, memory usage, disk usage, and top resource-consuming processes.
 
